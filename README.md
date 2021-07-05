@@ -1,3 +1,9 @@
+### Here is my word 
+
+Here are my ideas
+
+
+
 - 👋 Hi, I’m @CYAnson
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
